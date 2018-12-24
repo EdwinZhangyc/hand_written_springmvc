@@ -12,6 +12,6 @@ import com.zyc.handwritten_springmvc.service.IDemoService;
 public class DemoServiceImpl implements IDemoService {
     @Override
     public String getName(String name) {
-        return "test---------------------------------->";
+        return "test---------------------------------->" + name;
     }
 }

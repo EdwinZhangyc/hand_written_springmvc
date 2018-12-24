@@ -10,7 +10,7 @@
 
     <servlet>
         <servlet-name>springMvc</servlet-name>
-        <servlet-class>com.zyc.handwritten_springmvc.commponent.HandWrittenDispatcherServlet</servlet-class>
+        <servlet-class>com.zyc.handwritten_springmvc.servlet.HandWrittenDispatcherServlet</servlet-class>
         <init-param>
             <description>spring mvc 配置文件</description>
             <param-name>contextConfigLocation</param-name>

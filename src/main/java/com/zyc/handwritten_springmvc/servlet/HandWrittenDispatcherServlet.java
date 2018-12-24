@@ -1,4 +1,4 @@
-package com.zyc.handwritten_springmvc.commponent;
+package com.zyc.handwritten_springmvc.servlet;
 
 
 import com.zyc.handwritten_springmvc.annotation.HandWrittenAutowired;
